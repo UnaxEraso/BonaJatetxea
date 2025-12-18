@@ -44,7 +44,8 @@ const Header = () => {
         {/* TOPBAR */}
         <div className="topbar d-flex justify-content-between align-items-center px-4 py-2">
           <div className="topbar-left d-flex flex-column flex-sm-row align-items-center gap-3">
-             <img src={BonaLogoa} alt="Postre" height="90" /> 
+             <img src={BonaLogoa} alt="Postre" height="90" style={{ marginLeft: "-25px"
+                        }} /> 
           </div>
 
           <div className="topbar-right d-flex align-items-center gap-3">
