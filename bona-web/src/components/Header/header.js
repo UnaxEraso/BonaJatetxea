@@ -89,7 +89,7 @@ const Header = () => {
               <Nav className="mx-auto text-center">
                 <Nav.Link
                   as={Link}
-                  to="/"
+                  to="/BonaJatetxea"
                   className="nav-link-custom px-3"
                   onClick={() => setExpanded(false)}
                 >
