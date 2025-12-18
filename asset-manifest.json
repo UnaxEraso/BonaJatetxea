@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BonaJatetxea/static/css/main.b213f4be.css",
-    "main.js": "/BonaJatetxea/static/js/main.d611dbcb.js",
+    "main.js": "/BonaJatetxea/static/js/main.839f255d.js",
     "static/js/453.c575770d.chunk.js": "/BonaJatetxea/static/js/453.c575770d.chunk.js",
     "static/media/crema.jpg": "/BonaJatetxea/static/media/crema.3ff2491afe379e1784ab.jpg",
     "static/media/pollo.jpg": "/BonaJatetxea/static/media/pollo.e778ca19ccab5ceba119.jpg",
@@ -17,17 +17,18 @@
     "static/media/arroz.jpg": "/BonaJatetxea/static/media/arroz.ec0d0b80b6a195386949.jpg",
     "static/media/car2.jpg": "/BonaJatetxea/static/media/car2.72566c5801b56591f570.jpg",
     "static/media/lentejas.jpg": "/BonaJatetxea/static/media/lentejas.b86729e7f3e160e6540b.jpg",
+    "static/media/BonaLogoa.png": "/BonaJatetxea/static/media/BonaLogoa.1a52cf3a45730a4450c1.png",
     "static/media/reservation.jpg": "/BonaJatetxea/static/media/reservation.e649f62b93928fcf736a.jpg",
     "static/media/postre2.jpg": "/BonaJatetxea/static/media/postre2.2353f593f19f9eb33826.jpg",
     "static/media/contact.png": "/BonaJatetxea/static/media/contact.a408988e1a62119c2f30.png",
     "static/media/menu.jpeg": "/BonaJatetxea/static/media/menu.c2d4686efcd5548248af.jpeg",
     "index.html": "/BonaJatetxea/index.html",
     "main.b213f4be.css.map": "/BonaJatetxea/static/css/main.b213f4be.css.map",
-    "main.d611dbcb.js.map": "/BonaJatetxea/static/js/main.d611dbcb.js.map",
+    "main.839f255d.js.map": "/BonaJatetxea/static/js/main.839f255d.js.map",
     "453.c575770d.chunk.js.map": "/BonaJatetxea/static/js/453.c575770d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b213f4be.css",
-    "static/js/main.d611dbcb.js"
+    "static/js/main.839f255d.js"
   ]
 }
